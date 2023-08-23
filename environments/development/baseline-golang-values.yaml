@@ -1,5 +1,5 @@
 image:
-  repository: krumware/baseline-golang-app
+  repository: jxjftw/baseline-golang-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
 
